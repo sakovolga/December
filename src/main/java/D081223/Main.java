@@ -1,6 +1,4 @@
 package D081223;
-
-
 import java.util.Arrays;
 
 public class Main {
